@@ -1,0 +1,108 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MONSTER\\Desktop\\AcunMedyaAkademi\\AbstractionOdevi3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{42BB6583-87C2-4510-93FC-4C0D0923BE71}|AbstractionOdevi3\\AbstractionOdevi3.csproj|C:\\Users\\MONSTER\\Desktop\\AcunMedyaAkademi\\AbstractionOdevi3\\abstractionodevi3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42BB6583-87C2-4510-93FC-4C0D0923BE71}|AbstractionOdevi3\\AbstractionOdevi3.csproj|solutionrelative:abstractionodevi3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42BB6583-87C2-4510-93FC-4C0D0923BE71}|AbstractionOdevi3\\AbstractionOdevi3.csproj|c:\\users\\monster\\desktop\\acunmedyaakademi\\abstractionodevi3\\abstractionodevi3\\class\\porche.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42BB6583-87C2-4510-93FC-4C0D0923BE71}|AbstractionOdevi3\\AbstractionOdevi3.csproj|solutionrelative:abstractionodevi3\\class\\porche.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42BB6583-87C2-4510-93FC-4C0D0923BE71}|AbstractionOdevi3\\AbstractionOdevi3.csproj|c:\\users\\monster\\desktop\\acunmedyaakademi\\abstractionodevi3\\abstractionodevi3\\class\\mercedes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42BB6583-87C2-4510-93FC-4C0D0923BE71}|AbstractionOdevi3\\AbstractionOdevi3.csproj|solutionrelative:abstractionodevi3\\class\\mercedes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42BB6583-87C2-4510-93FC-4C0D0923BE71}|AbstractionOdevi3\\AbstractionOdevi3.csproj|c:\\users\\monster\\desktop\\acunmedyaakademi\\abstractionodevi3\\abstractionodevi3\\class\\bmw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42BB6583-87C2-4510-93FC-4C0D0923BE71}|AbstractionOdevi3\\AbstractionOdevi3.csproj|solutionrelative:abstractionodevi3\\class\\bmw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42BB6583-87C2-4510-93FC-4C0D0923BE71}|AbstractionOdevi3\\AbstractionOdevi3.csproj|C:\\Users\\MONSTER\\Desktop\\AcunMedyaAkademi\\AbstractionOdevi3\\abstractionodevi3\\interface\\iyak\u0131ttuketimi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42BB6583-87C2-4510-93FC-4C0D0923BE71}|AbstractionOdevi3\\AbstractionOdevi3.csproj|solutionrelative:abstractionodevi3\\interface\\iyak\u0131ttuketimi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Porche.cs",
+              "DocumentMoniker": "C:\\Users\\MONSTER\\Desktop\\AcunMedyaAkademi\\AbstractionOdevi3\\AbstractionOdevi3\\Class\\Porche.cs",
+              "RelativeDocumentMoniker": "AbstractionOdevi3\\Class\\Porche.cs",
+              "ToolTip": "C:\\Users\\MONSTER\\Desktop\\AcunMedyaAkademi\\AbstractionOdevi3\\AbstractionOdevi3\\Class\\Porche.cs",
+              "RelativeToolTip": "AbstractionOdevi3\\Class\\Porche.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T21:30:34.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Mercedes.cs",
+              "DocumentMoniker": "C:\\Users\\MONSTER\\Desktop\\AcunMedyaAkademi\\AbstractionOdevi3\\AbstractionOdevi3\\Class\\Mercedes.cs",
+              "RelativeDocumentMoniker": "AbstractionOdevi3\\Class\\Mercedes.cs",
+              "ToolTip": "C:\\Users\\MONSTER\\Desktop\\AcunMedyaAkademi\\AbstractionOdevi3\\AbstractionOdevi3\\Class\\Mercedes.cs",
+              "RelativeToolTip": "AbstractionOdevi3\\Class\\Mercedes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T21:29:24.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Bmw.cs",
+              "DocumentMoniker": "C:\\Users\\MONSTER\\Desktop\\AcunMedyaAkademi\\AbstractionOdevi3\\AbstractionOdevi3\\Class\\Bmw.cs",
+              "RelativeDocumentMoniker": "AbstractionOdevi3\\Class\\Bmw.cs",
+              "ToolTip": "C:\\Users\\MONSTER\\Desktop\\AcunMedyaAkademi\\AbstractionOdevi3\\AbstractionOdevi3\\Class\\Bmw.cs",
+              "RelativeToolTip": "AbstractionOdevi3\\Class\\Bmw.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T21:21:19.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IYak\u0131tTuketimi.cs",
+              "DocumentMoniker": "C:\\Users\\MONSTER\\Desktop\\AcunMedyaAkademi\\AbstractionOdevi3\\AbstractionOdevi3\\Interface\\IYak\u0131tTuketimi.cs",
+              "RelativeDocumentMoniker": "AbstractionOdevi3\\Interface\\IYak\u0131tTuketimi.cs",
+              "ToolTip": "C:\\Users\\MONSTER\\Desktop\\AcunMedyaAkademi\\AbstractionOdevi3\\AbstractionOdevi3\\Interface\\IYak\u0131tTuketimi.cs",
+              "RelativeToolTip": "AbstractionOdevi3\\Interface\\IYak\u0131tTuketimi.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T21:20:14.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MONSTER\\Desktop\\AcunMedyaAkademi\\AbstractionOdevi3\\AbstractionOdevi3\\Program.cs",
+              "RelativeDocumentMoniker": "AbstractionOdevi3\\Program.cs",
+              "ToolTip": "C:\\Users\\MONSTER\\Desktop\\AcunMedyaAkademi\\AbstractionOdevi3\\AbstractionOdevi3\\Program.cs",
+              "RelativeToolTip": "AbstractionOdevi3\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T21:19:36.662Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

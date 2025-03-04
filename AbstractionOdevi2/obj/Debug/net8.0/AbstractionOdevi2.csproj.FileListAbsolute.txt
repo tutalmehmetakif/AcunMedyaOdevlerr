@@ -1,0 +1,14 @@
+C:\Users\MONSTER\Desktop\AcunMedyaAkademi\AbstractionOdevi2\AbstractionOdevi2\bin\Debug\net8.0\AbstractionOdevi2.exe
+C:\Users\MONSTER\Desktop\AcunMedyaAkademi\AbstractionOdevi2\AbstractionOdevi2\bin\Debug\net8.0\AbstractionOdevi2.deps.json
+C:\Users\MONSTER\Desktop\AcunMedyaAkademi\AbstractionOdevi2\AbstractionOdevi2\bin\Debug\net8.0\AbstractionOdevi2.runtimeconfig.json
+C:\Users\MONSTER\Desktop\AcunMedyaAkademi\AbstractionOdevi2\AbstractionOdevi2\bin\Debug\net8.0\AbstractionOdevi2.dll
+C:\Users\MONSTER\Desktop\AcunMedyaAkademi\AbstractionOdevi2\AbstractionOdevi2\bin\Debug\net8.0\AbstractionOdevi2.pdb
+C:\Users\MONSTER\Desktop\AcunMedyaAkademi\AbstractionOdevi2\AbstractionOdevi2\obj\Debug\net8.0\AbstractionOdevi2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MONSTER\Desktop\AcunMedyaAkademi\AbstractionOdevi2\AbstractionOdevi2\obj\Debug\net8.0\AbstractionOdevi2.AssemblyInfoInputs.cache
+C:\Users\MONSTER\Desktop\AcunMedyaAkademi\AbstractionOdevi2\AbstractionOdevi2\obj\Debug\net8.0\AbstractionOdevi2.AssemblyInfo.cs
+C:\Users\MONSTER\Desktop\AcunMedyaAkademi\AbstractionOdevi2\AbstractionOdevi2\obj\Debug\net8.0\AbstractionOdevi2.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\Desktop\AcunMedyaAkademi\AbstractionOdevi2\AbstractionOdevi2\obj\Debug\net8.0\AbstractionOdevi2.dll
+C:\Users\MONSTER\Desktop\AcunMedyaAkademi\AbstractionOdevi2\AbstractionOdevi2\obj\Debug\net8.0\refint\AbstractionOdevi2.dll
+C:\Users\MONSTER\Desktop\AcunMedyaAkademi\AbstractionOdevi2\AbstractionOdevi2\obj\Debug\net8.0\AbstractionOdevi2.pdb
+C:\Users\MONSTER\Desktop\AcunMedyaAkademi\AbstractionOdevi2\AbstractionOdevi2\obj\Debug\net8.0\AbstractionOdevi2.genruntimeconfig.cache
+C:\Users\MONSTER\Desktop\AcunMedyaAkademi\AbstractionOdevi2\AbstractionOdevi2\obj\Debug\net8.0\ref\AbstractionOdevi2.dll
