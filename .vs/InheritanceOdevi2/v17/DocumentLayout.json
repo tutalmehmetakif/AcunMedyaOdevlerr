@@ -1,0 +1,108 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MONSTER\\Desktop\\AcunMedyaAkademi\\InheritanceOdevi2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5B396913-85C5-4D91-B9F7-F721001BA6BA}|InheritanceOdevi2\\InheritanceOdevi2.csproj|C:\\Users\\MONSTER\\Desktop\\AcunMedyaAkademi\\InheritanceOdevi2\\inheritanceodevi2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B396913-85C5-4D91-B9F7-F721001BA6BA}|InheritanceOdevi2\\InheritanceOdevi2.csproj|solutionrelative:inheritanceodevi2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B396913-85C5-4D91-B9F7-F721001BA6BA}|InheritanceOdevi2\\InheritanceOdevi2.csproj|c:\\users\\monster\\desktop\\acunmedyaakademi\\inheritanceodevi2\\inheritanceodevi2\\abstractclass\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B396913-85C5-4D91-B9F7-F721001BA6BA}|InheritanceOdevi2\\InheritanceOdevi2.csproj|solutionrelative:inheritanceodevi2\\abstractclass\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B396913-85C5-4D91-B9F7-F721001BA6BA}|InheritanceOdevi2\\InheritanceOdevi2.csproj|C:\\Users\\MONSTER\\Desktop\\AcunMedyaAkademi\\InheritanceOdevi2\\inheritanceodevi2\\abstractclass\\bmw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B396913-85C5-4D91-B9F7-F721001BA6BA}|InheritanceOdevi2\\InheritanceOdevi2.csproj|solutionrelative:inheritanceodevi2\\abstractclass\\bmw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B396913-85C5-4D91-B9F7-F721001BA6BA}|InheritanceOdevi2\\InheritanceOdevi2.csproj|C:\\Users\\MONSTER\\Desktop\\AcunMedyaAkademi\\InheritanceOdevi2\\inheritanceodevi2\\abstractclass\\araba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B396913-85C5-4D91-B9F7-F721001BA6BA}|InheritanceOdevi2\\InheritanceOdevi2.csproj|solutionrelative:inheritanceodevi2\\abstractclass\\araba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B396913-85C5-4D91-B9F7-F721001BA6BA}|InheritanceOdevi2\\InheritanceOdevi2.csproj|C:\\Users\\MONSTER\\Desktop\\AcunMedyaAkademi\\InheritanceOdevi2\\inheritanceodevi2\\abstractclass\\kopek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B396913-85C5-4D91-B9F7-F721001BA6BA}|InheritanceOdevi2\\InheritanceOdevi2.csproj|solutionrelative:inheritanceodevi2\\abstractclass\\kopek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Bmw.cs",
+              "DocumentMoniker": "C:\\Users\\MONSTER\\Desktop\\AcunMedyaAkademi\\InheritanceOdevi2\\InheritanceOdevi2\\AbstractClass\\Bmw.cs",
+              "RelativeDocumentMoniker": "InheritanceOdevi2\\AbstractClass\\Bmw.cs",
+              "ToolTip": "C:\\Users\\MONSTER\\Desktop\\AcunMedyaAkademi\\InheritanceOdevi2\\InheritanceOdevi2\\AbstractClass\\Bmw.cs",
+              "RelativeToolTip": "InheritanceOdevi2\\AbstractClass\\Bmw.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T19:05:09.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Kopek.cs",
+              "DocumentMoniker": "C:\\Users\\MONSTER\\Desktop\\AcunMedyaAkademi\\InheritanceOdevi2\\InheritanceOdevi2\\AbstractClass\\Kopek.cs",
+              "RelativeDocumentMoniker": "InheritanceOdevi2\\AbstractClass\\Kopek.cs",
+              "ToolTip": "C:\\Users\\MONSTER\\Desktop\\AcunMedyaAkademi\\InheritanceOdevi2\\InheritanceOdevi2\\AbstractClass\\Kopek.cs",
+              "RelativeToolTip": "InheritanceOdevi2\\AbstractClass\\Kopek.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T18:36:13.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Users\\MONSTER\\Desktop\\AcunMedyaAkademi\\InheritanceOdevi2\\InheritanceOdevi2\\AbstractClass\\Animal.cs",
+              "RelativeDocumentMoniker": "InheritanceOdevi2\\AbstractClass\\Animal.cs",
+              "ToolTip": "C:\\Users\\MONSTER\\Desktop\\AcunMedyaAkademi\\InheritanceOdevi2\\InheritanceOdevi2\\AbstractClass\\Animal.cs",
+              "RelativeToolTip": "InheritanceOdevi2\\AbstractClass\\Animal.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T18:25:57.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Araba.cs",
+              "DocumentMoniker": "C:\\Users\\MONSTER\\Desktop\\AcunMedyaAkademi\\InheritanceOdevi2\\InheritanceOdevi2\\AbstractClass\\Araba.cs",
+              "RelativeDocumentMoniker": "InheritanceOdevi2\\AbstractClass\\Araba.cs",
+              "ToolTip": "C:\\Users\\MONSTER\\Desktop\\AcunMedyaAkademi\\InheritanceOdevi2\\InheritanceOdevi2\\AbstractClass\\Araba.cs",
+              "RelativeToolTip": "InheritanceOdevi2\\AbstractClass\\Araba.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T19:03:55.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MONSTER\\Desktop\\AcunMedyaAkademi\\InheritanceOdevi2\\InheritanceOdevi2\\Program.cs",
+              "RelativeDocumentMoniker": "InheritanceOdevi2\\Program.cs",
+              "ToolTip": "C:\\Users\\MONSTER\\Desktop\\AcunMedyaAkademi\\InheritanceOdevi2\\InheritanceOdevi2\\Program.cs",
+              "RelativeToolTip": "InheritanceOdevi2\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T18:24:55.798Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

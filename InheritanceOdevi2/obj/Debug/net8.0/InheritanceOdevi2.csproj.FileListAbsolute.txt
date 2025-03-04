@@ -1,0 +1,14 @@
+C:\Users\MONSTER\Desktop\AcunMedyaAkademi\InheritanceOdevi2\InheritanceOdevi2\bin\Debug\net8.0\InheritanceOdevi2.exe
+C:\Users\MONSTER\Desktop\AcunMedyaAkademi\InheritanceOdevi2\InheritanceOdevi2\bin\Debug\net8.0\InheritanceOdevi2.deps.json
+C:\Users\MONSTER\Desktop\AcunMedyaAkademi\InheritanceOdevi2\InheritanceOdevi2\bin\Debug\net8.0\InheritanceOdevi2.runtimeconfig.json
+C:\Users\MONSTER\Desktop\AcunMedyaAkademi\InheritanceOdevi2\InheritanceOdevi2\bin\Debug\net8.0\InheritanceOdevi2.dll
+C:\Users\MONSTER\Desktop\AcunMedyaAkademi\InheritanceOdevi2\InheritanceOdevi2\bin\Debug\net8.0\InheritanceOdevi2.pdb
+C:\Users\MONSTER\Desktop\AcunMedyaAkademi\InheritanceOdevi2\InheritanceOdevi2\obj\Debug\net8.0\InheritanceOdevi2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MONSTER\Desktop\AcunMedyaAkademi\InheritanceOdevi2\InheritanceOdevi2\obj\Debug\net8.0\InheritanceOdevi2.AssemblyInfoInputs.cache
+C:\Users\MONSTER\Desktop\AcunMedyaAkademi\InheritanceOdevi2\InheritanceOdevi2\obj\Debug\net8.0\InheritanceOdevi2.AssemblyInfo.cs
+C:\Users\MONSTER\Desktop\AcunMedyaAkademi\InheritanceOdevi2\InheritanceOdevi2\obj\Debug\net8.0\InheritanceOdevi2.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\Desktop\AcunMedyaAkademi\InheritanceOdevi2\InheritanceOdevi2\obj\Debug\net8.0\InheritanceOdevi2.dll
+C:\Users\MONSTER\Desktop\AcunMedyaAkademi\InheritanceOdevi2\InheritanceOdevi2\obj\Debug\net8.0\refint\InheritanceOdevi2.dll
+C:\Users\MONSTER\Desktop\AcunMedyaAkademi\InheritanceOdevi2\InheritanceOdevi2\obj\Debug\net8.0\InheritanceOdevi2.pdb
+C:\Users\MONSTER\Desktop\AcunMedyaAkademi\InheritanceOdevi2\InheritanceOdevi2\obj\Debug\net8.0\InheritanceOdevi2.genruntimeconfig.cache
+C:\Users\MONSTER\Desktop\AcunMedyaAkademi\InheritanceOdevi2\InheritanceOdevi2\obj\Debug\net8.0\ref\InheritanceOdevi2.dll

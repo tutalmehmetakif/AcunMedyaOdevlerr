@@ -1,0 +1,211 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MONSTER\\Desktop\\AcunMedyaAkademi\\InheritanceOdevi1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{886D0459-B451-40ED-BA13-C4CF65F8C4F3}|InheritanceOdevi\\InheritanceOdevi.csproj|C:\\Users\\MONSTER\\Desktop\\AcunMedyaAkademi\\InheritanceOdevi1\\inheritanceodevi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{886D0459-B451-40ED-BA13-C4CF65F8C4F3}|InheritanceOdevi\\InheritanceOdevi.csproj|solutionrelative:inheritanceodevi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{886D0459-B451-40ED-BA13-C4CF65F8C4F3}|InheritanceOdevi\\InheritanceOdevi.csproj|C:\\Users\\MONSTER\\Desktop\\AcunMedyaAkademi\\InheritanceOdevi1\\inheritanceodevi\\classes\\audi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{886D0459-B451-40ED-BA13-C4CF65F8C4F3}|InheritanceOdevi\\InheritanceOdevi.csproj|solutionrelative:inheritanceodevi\\classes\\audi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{886D0459-B451-40ED-BA13-C4CF65F8C4F3}|InheritanceOdevi\\InheritanceOdevi.csproj|C:\\Users\\MONSTER\\Desktop\\AcunMedyaAkademi\\InheritanceOdevi1\\inheritanceodevi\\classes\\bmw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{886D0459-B451-40ED-BA13-C4CF65F8C4F3}|InheritanceOdevi\\InheritanceOdevi.csproj|solutionrelative:inheritanceodevi\\classes\\bmw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{886D0459-B451-40ED-BA13-C4CF65F8C4F3}|InheritanceOdevi\\InheritanceOdevi.csproj|C:\\Users\\MONSTER\\Desktop\\AcunMedyaAkademi\\InheritanceOdevi1\\inheritanceodevi\\classes\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{886D0459-B451-40ED-BA13-C4CF65F8C4F3}|InheritanceOdevi\\InheritanceOdevi.csproj|solutionrelative:inheritanceodevi\\classes\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{886D0459-B451-40ED-BA13-C4CF65F8C4F3}|InheritanceOdevi\\InheritanceOdevi.csproj|C:\\Users\\MONSTER\\Desktop\\AcunMedyaAkademi\\InheritanceOdevi1\\inheritanceodevi\\classes\\honda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{886D0459-B451-40ED-BA13-C4CF65F8C4F3}|InheritanceOdevi\\InheritanceOdevi.csproj|solutionrelative:inheritanceodevi\\classes\\honda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{886D0459-B451-40ED-BA13-C4CF65F8C4F3}|InheritanceOdevi\\InheritanceOdevi.csproj|C:\\Users\\MONSTER\\Desktop\\AcunMedyaAkademi\\InheritanceOdevi1\\inheritanceodevi\\classes\\mercedes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{886D0459-B451-40ED-BA13-C4CF65F8C4F3}|InheritanceOdevi\\InheritanceOdevi.csproj|solutionrelative:inheritanceodevi\\classes\\mercedes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{886D0459-B451-40ED-BA13-C4CF65F8C4F3}|InheritanceOdevi\\InheritanceOdevi.csproj|C:\\Users\\MONSTER\\Desktop\\AcunMedyaAkademi\\InheritanceOdevi1\\inheritanceodevi\\classes\\porsche.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{886D0459-B451-40ED-BA13-C4CF65F8C4F3}|InheritanceOdevi\\InheritanceOdevi.csproj|solutionrelative:inheritanceodevi\\classes\\porsche.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{886D0459-B451-40ED-BA13-C4CF65F8C4F3}|InheritanceOdevi\\InheritanceOdevi.csproj|C:\\Users\\MONSTER\\Desktop\\AcunMedyaAkademi\\InheritanceOdevi1\\inheritanceodevi\\classes\\togg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{886D0459-B451-40ED-BA13-C4CF65F8C4F3}|InheritanceOdevi\\InheritanceOdevi.csproj|solutionrelative:inheritanceodevi\\classes\\togg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{886D0459-B451-40ED-BA13-C4CF65F8C4F3}|InheritanceOdevi\\InheritanceOdevi.csproj|C:\\Users\\MONSTER\\Desktop\\AcunMedyaAkademi\\InheritanceOdevi1\\inheritanceodevi\\classes\\toyota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{886D0459-B451-40ED-BA13-C4CF65F8C4F3}|InheritanceOdevi\\InheritanceOdevi.csproj|solutionrelative:inheritanceodevi\\classes\\toyota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{886D0459-B451-40ED-BA13-C4CF65F8C4F3}|InheritanceOdevi\\InheritanceOdevi.csproj|C:\\Users\\MONSTER\\Desktop\\AcunMedyaAkademi\\InheritanceOdevi1\\inheritanceodevi\\classes\\maserati.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{886D0459-B451-40ED-BA13-C4CF65F8C4F3}|InheritanceOdevi\\InheritanceOdevi.csproj|solutionrelative:inheritanceodevi\\classes\\maserati.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{886D0459-B451-40ED-BA13-C4CF65F8C4F3}|InheritanceOdevi\\InheritanceOdevi.csproj|c:\\users\\monster\\desktop\\acunmedyaakademi\\inheritanceodevi1\\inheritanceodevi\\classes\\bugatti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{886D0459-B451-40ED-BA13-C4CF65F8C4F3}|InheritanceOdevi\\InheritanceOdevi.csproj|solutionrelative:inheritanceodevi\\classes\\bugatti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Audi.cs",
+              "DocumentMoniker": "C:\\Users\\MONSTER\\Desktop\\AcunMedyaAkademi\\InheritanceOdevi1\\InheritanceOdevi\\Classes\\Audi.cs",
+              "RelativeDocumentMoniker": "InheritanceOdevi\\Classes\\Audi.cs",
+              "ToolTip": "C:\\Users\\MONSTER\\Desktop\\AcunMedyaAkademi\\InheritanceOdevi1\\InheritanceOdevi\\Classes\\Audi.cs",
+              "RelativeToolTip": "InheritanceOdevi\\Classes\\Audi.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T16:59:19.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Togg.cs",
+              "DocumentMoniker": "C:\\Users\\MONSTER\\Desktop\\AcunMedyaAkademi\\InheritanceOdevi1\\InheritanceOdevi\\Classes\\Togg.cs",
+              "RelativeDocumentMoniker": "InheritanceOdevi\\Classes\\Togg.cs",
+              "ToolTip": "C:\\Users\\MONSTER\\Desktop\\AcunMedyaAkademi\\InheritanceOdevi1\\InheritanceOdevi\\Classes\\Togg.cs",
+              "RelativeToolTip": "InheritanceOdevi\\Classes\\Togg.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T16:59:03.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Mercedes.cs",
+              "DocumentMoniker": "C:\\Users\\MONSTER\\Desktop\\AcunMedyaAkademi\\InheritanceOdevi1\\InheritanceOdevi\\Classes\\Mercedes.cs",
+              "RelativeDocumentMoniker": "InheritanceOdevi\\Classes\\Mercedes.cs",
+              "ToolTip": "C:\\Users\\MONSTER\\Desktop\\AcunMedyaAkademi\\InheritanceOdevi1\\InheritanceOdevi\\Classes\\Mercedes.cs",
+              "RelativeToolTip": "InheritanceOdevi\\Classes\\Mercedes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T16:58:44.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Porsche.cs",
+              "DocumentMoniker": "C:\\Users\\MONSTER\\Desktop\\AcunMedyaAkademi\\InheritanceOdevi1\\InheritanceOdevi\\Classes\\Porsche.cs",
+              "RelativeDocumentMoniker": "InheritanceOdevi\\Classes\\Porsche.cs",
+              "ToolTip": "C:\\Users\\MONSTER\\Desktop\\AcunMedyaAkademi\\InheritanceOdevi1\\InheritanceOdevi\\Classes\\Porsche.cs",
+              "RelativeToolTip": "InheritanceOdevi\\Classes\\Porsche.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T16:58:25.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Bmw.cs",
+              "DocumentMoniker": "C:\\Users\\MONSTER\\Desktop\\AcunMedyaAkademi\\InheritanceOdevi1\\InheritanceOdevi\\Classes\\Bmw.cs",
+              "RelativeDocumentMoniker": "InheritanceOdevi\\Classes\\Bmw.cs",
+              "ToolTip": "C:\\Users\\MONSTER\\Desktop\\AcunMedyaAkademi\\InheritanceOdevi1\\InheritanceOdevi\\Classes\\Bmw.cs",
+              "RelativeToolTip": "InheritanceOdevi\\Classes\\Bmw.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T16:55:39.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MONSTER\\Desktop\\AcunMedyaAkademi\\InheritanceOdevi1\\InheritanceOdevi\\Program.cs",
+              "RelativeDocumentMoniker": "InheritanceOdevi\\Program.cs",
+              "ToolTip": "C:\\Users\\MONSTER\\Desktop\\AcunMedyaAkademi\\InheritanceOdevi1\\InheritanceOdevi\\Program.cs",
+              "RelativeToolTip": "InheritanceOdevi\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T16:48:13.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Toyota.cs",
+              "DocumentMoniker": "C:\\Users\\MONSTER\\Desktop\\AcunMedyaAkademi\\InheritanceOdevi1\\InheritanceOdevi\\Classes\\Toyota.cs",
+              "RelativeDocumentMoniker": "InheritanceOdevi\\Classes\\Toyota.cs",
+              "ToolTip": "C:\\Users\\MONSTER\\Desktop\\AcunMedyaAkademi\\InheritanceOdevi1\\InheritanceOdevi\\Classes\\Toyota.cs",
+              "RelativeToolTip": "InheritanceOdevi\\Classes\\Toyota.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T16:59:38.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Honda.cs",
+              "DocumentMoniker": "C:\\Users\\MONSTER\\Desktop\\AcunMedyaAkademi\\InheritanceOdevi1\\InheritanceOdevi\\Classes\\Honda.cs",
+              "RelativeDocumentMoniker": "InheritanceOdevi\\Classes\\Honda.cs",
+              "ToolTip": "C:\\Users\\MONSTER\\Desktop\\AcunMedyaAkademi\\InheritanceOdevi1\\InheritanceOdevi\\Classes\\Honda.cs",
+              "RelativeToolTip": "InheritanceOdevi\\Classes\\Honda.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T17:10:40.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Maserati.cs",
+              "DocumentMoniker": "C:\\Users\\MONSTER\\Desktop\\AcunMedyaAkademi\\InheritanceOdevi1\\InheritanceOdevi\\Classes\\Maserati.cs",
+              "RelativeDocumentMoniker": "InheritanceOdevi\\Classes\\Maserati.cs",
+              "ToolTip": "C:\\Users\\MONSTER\\Desktop\\AcunMedyaAkademi\\InheritanceOdevi1\\InheritanceOdevi\\Classes\\Maserati.cs",
+              "RelativeToolTip": "InheritanceOdevi\\Classes\\Maserati.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T17:11:03.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Bugatti.cs",
+              "DocumentMoniker": "C:\\Users\\MONSTER\\Desktop\\AcunMedyaAkademi\\InheritanceOdevi1\\InheritanceOdevi\\Classes\\Bugatti.cs",
+              "RelativeDocumentMoniker": "InheritanceOdevi\\Classes\\Bugatti.cs",
+              "ToolTip": "C:\\Users\\MONSTER\\Desktop\\AcunMedyaAkademi\\InheritanceOdevi1\\InheritanceOdevi\\Classes\\Bugatti.cs",
+              "RelativeToolTip": "InheritanceOdevi\\Classes\\Bugatti.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T17:11:20.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\MONSTER\\Desktop\\AcunMedyaAkademi\\InheritanceOdevi1\\InheritanceOdevi\\Classes\\Car.cs",
+              "RelativeDocumentMoniker": "InheritanceOdevi\\Classes\\Car.cs",
+              "ToolTip": "C:\\Users\\MONSTER\\Desktop\\AcunMedyaAkademi\\InheritanceOdevi1\\InheritanceOdevi\\Classes\\Car.cs",
+              "RelativeToolTip": "InheritanceOdevi\\Classes\\Car.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T16:51:15.347Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
