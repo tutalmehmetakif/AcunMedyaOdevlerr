@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("AbstractionOdevi2")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("ErisimBelirleyicilerVeDegiskenlerOdevi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7c17b7acf4d97a1dc160b66ee25c9b9843f66bc4")]
-[assembly: System.Reflection.AssemblyProductAttribute("AbstractionOdevi2")]
-[assembly: System.Reflection.AssemblyTitleAttribute("AbstractionOdevi2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyProductAttribute("ErisimBelirleyicilerVeDegiskenlerOdevi")]
+[assembly: System.Reflection.AssemblyTitleAttribute("ErisimBelirleyicilerVeDegiskenlerOdevi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // MSBuild WriteCodeFragment sınıfı tarafından oluşturuldu.

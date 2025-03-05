@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\MONSTER\\Desktop\\AcunMedyaÖdevler\\AcunMedyaOdevlerr\\AbstractionOdevi2\\AbstractionOdevi2\\AbstractionOdevi2.csproj",
-      "projectName": "AbstractionOdevi2",
-      "projectPath": "C:\\Users\\MONSTER\\Desktop\\AcunMedyaÖdevler\\AcunMedyaOdevlerr\\AbstractionOdevi2\\AbstractionOdevi2\\AbstractionOdevi2.csproj",
+      "projectUniqueName": "C:\\Users\\MONSTER\\Desktop\\AcunMedyaAkademi\\ErisimBelirleyicilerVeDegiskenlerOdevi\\ErisimBelirleyicilerVeDegiskenlerOdevi\\ErisimBelirleyicilerVeDegiskenlerOdevi.csproj",
+      "projectName": "ErisimBelirleyicilerVeDegiskenlerOdevi",
+      "projectPath": "C:\\Users\\MONSTER\\Desktop\\AcunMedyaAkademi\\ErisimBelirleyicilerVeDegiskenlerOdevi\\ErisimBelirleyicilerVeDegiskenlerOdevi\\ErisimBelirleyicilerVeDegiskenlerOdevi.csproj",
       "packagesPath": "C:\\Users\\MONSTER\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\MONSTER\\Desktop\\AcunMedyaÖdevler\\AcunMedyaOdevlerr\\AbstractionOdevi2\\AbstractionOdevi2\\obj\\",
+      "outputPath": "C:\\Users\\MONSTER\\Desktop\\AcunMedyaAkademi\\ErisimBelirleyicilerVeDegiskenlerOdevi\\ErisimBelirleyicilerVeDegiskenlerOdevi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\MONSTER\\AppData\\Roaming\\NuGet\\NuGet.Config",
