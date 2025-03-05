@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("InheritanceOdevi2")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("deneme")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d80b41f9d5f7fdad6ed72f2c63ae0dd6ee793a72")]
-[assembly: System.Reflection.AssemblyProductAttribute("InheritanceOdevi2")]
-[assembly: System.Reflection.AssemblyTitleAttribute("InheritanceOdevi2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyProductAttribute("deneme")]
+[assembly: System.Reflection.AssemblyTitleAttribute("deneme")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // MSBuild WriteCodeFragment sınıfı tarafından oluşturuldu.

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\MONSTER\\Desktop\\AcunMedyaÖdevler\\AcunMedyaOdevlerr\\InheritanceOdevi2\\InheritanceOdevi2.csproj",
-      "projectName": "InheritanceOdevi2",
-      "projectPath": "C:\\Users\\MONSTER\\Desktop\\AcunMedyaÖdevler\\AcunMedyaOdevlerr\\InheritanceOdevi2\\InheritanceOdevi2.csproj",
+      "projectUniqueName": "C:\\Users\\MONSTER\\Desktop\\AcunMedyaAkademi\\deneme\\deneme\\deneme.csproj",
+      "projectName": "deneme",
+      "projectPath": "C:\\Users\\MONSTER\\Desktop\\AcunMedyaAkademi\\deneme\\deneme\\deneme.csproj",
       "packagesPath": "C:\\Users\\MONSTER\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\MONSTER\\Desktop\\AcunMedyaÖdevler\\AcunMedyaOdevlerr\\InheritanceOdevi2\\obj\\",
+      "outputPath": "C:\\Users\\MONSTER\\Desktop\\AcunMedyaAkademi\\deneme\\deneme\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\MONSTER\\AppData\\Roaming\\NuGet\\NuGet.Config",
