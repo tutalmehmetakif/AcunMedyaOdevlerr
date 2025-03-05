@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AbstractionOdevi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b4e5c6f9f7d5a3762b0d80a3ec595e9981b56b9e")]
 [assembly: System.Reflection.AssemblyProductAttribute("AbstractionOdevi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AbstractionOdevi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

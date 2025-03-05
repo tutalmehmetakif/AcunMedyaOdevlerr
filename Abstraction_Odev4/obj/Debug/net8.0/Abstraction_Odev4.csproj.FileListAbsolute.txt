@@ -1,0 +1,14 @@
+C:\Users\MONSTER\Desktop\AcunMedyaAkademi\Abstraction_Odev4\Abstraction_Odev4\bin\Debug\net8.0\Abstraction_Odev4.exe
+C:\Users\MONSTER\Desktop\AcunMedyaAkademi\Abstraction_Odev4\Abstraction_Odev4\bin\Debug\net8.0\Abstraction_Odev4.deps.json
+C:\Users\MONSTER\Desktop\AcunMedyaAkademi\Abstraction_Odev4\Abstraction_Odev4\bin\Debug\net8.0\Abstraction_Odev4.runtimeconfig.json
+C:\Users\MONSTER\Desktop\AcunMedyaAkademi\Abstraction_Odev4\Abstraction_Odev4\bin\Debug\net8.0\Abstraction_Odev4.dll
+C:\Users\MONSTER\Desktop\AcunMedyaAkademi\Abstraction_Odev4\Abstraction_Odev4\bin\Debug\net8.0\Abstraction_Odev4.pdb
+C:\Users\MONSTER\Desktop\AcunMedyaAkademi\Abstraction_Odev4\Abstraction_Odev4\obj\Debug\net8.0\Abstraction_Odev4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MONSTER\Desktop\AcunMedyaAkademi\Abstraction_Odev4\Abstraction_Odev4\obj\Debug\net8.0\Abstraction_Odev4.AssemblyInfoInputs.cache
+C:\Users\MONSTER\Desktop\AcunMedyaAkademi\Abstraction_Odev4\Abstraction_Odev4\obj\Debug\net8.0\Abstraction_Odev4.AssemblyInfo.cs
+C:\Users\MONSTER\Desktop\AcunMedyaAkademi\Abstraction_Odev4\Abstraction_Odev4\obj\Debug\net8.0\Abstraction_Odev4.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\Desktop\AcunMedyaAkademi\Abstraction_Odev4\Abstraction_Odev4\obj\Debug\net8.0\Abstraction_Odev4.dll
+C:\Users\MONSTER\Desktop\AcunMedyaAkademi\Abstraction_Odev4\Abstraction_Odev4\obj\Debug\net8.0\refint\Abstraction_Odev4.dll
+C:\Users\MONSTER\Desktop\AcunMedyaAkademi\Abstraction_Odev4\Abstraction_Odev4\obj\Debug\net8.0\Abstraction_Odev4.pdb
+C:\Users\MONSTER\Desktop\AcunMedyaAkademi\Abstraction_Odev4\Abstraction_Odev4\obj\Debug\net8.0\Abstraction_Odev4.genruntimeconfig.cache
+C:\Users\MONSTER\Desktop\AcunMedyaAkademi\Abstraction_Odev4\Abstraction_Odev4\obj\Debug\net8.0\ref\Abstraction_Odev4.dll

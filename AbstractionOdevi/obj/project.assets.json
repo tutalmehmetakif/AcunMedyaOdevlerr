@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\MONSTER\\Desktop\\AcunMedyaAkademi\\AbstractionOdevi\\AbstractionOdevi\\AbstractionOdevi.csproj",
+      "projectUniqueName": "C:\\Users\\MONSTER\\Desktop\\AcunMedyaÖdevler\\AcunMedyaOdevlerr\\AbstractionOdevi\\AbstractionOdevi.csproj",
       "projectName": "AbstractionOdevi",
-      "projectPath": "C:\\Users\\MONSTER\\Desktop\\AcunMedyaAkademi\\AbstractionOdevi\\AbstractionOdevi\\AbstractionOdevi.csproj",
+      "projectPath": "C:\\Users\\MONSTER\\Desktop\\AcunMedyaÖdevler\\AcunMedyaOdevlerr\\AbstractionOdevi\\AbstractionOdevi.csproj",
       "packagesPath": "C:\\Users\\MONSTER\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\MONSTER\\Desktop\\AcunMedyaAkademi\\AbstractionOdevi\\AbstractionOdevi\\obj\\",
+      "outputPath": "C:\\Users\\MONSTER\\Desktop\\AcunMedyaÖdevler\\AcunMedyaOdevlerr\\AbstractionOdevi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\MONSTER\\AppData\\Roaming\\NuGet\\NuGet.Config",

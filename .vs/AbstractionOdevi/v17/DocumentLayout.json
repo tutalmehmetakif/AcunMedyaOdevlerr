@@ -1,34 +1,34 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\MONSTER\\Desktop\\AcunMedyaAkademi\\AbstractionOdevi\\",
+  "WorkspaceRootPath": "C:\\Users\\MONSTER\\Desktop\\AcunMedya\u00D6devler\\AcunMedyaOdevlerr\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E67C61AB-D5BE-49E5-85F0-0777E9085F39}|AbstractionOdevi\\AbstractionOdevi.csproj|c:\\users\\monster\\desktop\\acunmedyaakademi\\abstractionodevi\\abstractionodevi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E67C61AB-D5BE-49E5-85F0-0777E9085F39}|AbstractionOdevi\\AbstractionOdevi.csproj|solutionrelative:abstractionodevi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E67C61AB-D5BE-49E5-85F0-0777E9085F39}|AbstractionOdevi\\AbstractionOdevi.csproj|C:\\Users\\MONSTER\\Desktop\\AcunMedyaAkademi\\AbstractionOdevi\\abstractionodevi\\class\\porche.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E67C61AB-D5BE-49E5-85F0-0777E9085F39}|AbstractionOdevi\\AbstractionOdevi.csproj|solutionrelative:abstractionodevi\\class\\porche.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E67C61AB-D5BE-49E5-85F0-0777E9085F39}|AbstractionOdevi\\AbstractionOdevi.csproj|C:\\Users\\MONSTER\\Desktop\\AcunMedyaAkademi\\AbstractionOdevi\\abstractionodevi\\class\\mercedes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E67C61AB-D5BE-49E5-85F0-0777E9085F39}|AbstractionOdevi\\AbstractionOdevi.csproj|solutionrelative:abstractionodevi\\class\\mercedes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E67C61AB-D5BE-49E5-85F0-0777E9085F39}|AbstractionOdevi\\AbstractionOdevi.csproj|C:\\Users\\MONSTER\\Desktop\\AcunMedyaAkademi\\AbstractionOdevi\\abstractionodevi\\class\\bmw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E67C61AB-D5BE-49E5-85F0-0777E9085F39}|AbstractionOdevi\\AbstractionOdevi.csproj|solutionrelative:abstractionodevi\\class\\bmw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E67C61AB-D5BE-49E5-85F0-0777E9085F39}|AbstractionOdevi\\AbstractionOdevi.csproj|C:\\Users\\MONSTER\\Desktop\\AcunMedyaAkademi\\AbstractionOdevi\\abstractionodevi\\interface\\ihavadaucma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E67C61AB-D5BE-49E5-85F0-0777E9085F39}|AbstractionOdevi\\AbstractionOdevi.csproj|solutionrelative:abstractionodevi\\interface\\ihavadaucma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E67C61AB-D5BE-49E5-85F0-0777E9085F39}|AbstractionOdevi\\AbstractionOdevi.csproj|C:\\Users\\MONSTER\\Desktop\\AcunMedyaAkademi\\AbstractionOdevi\\abstractionodevi\\interface\\iyuzme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E67C61AB-D5BE-49E5-85F0-0777E9085F39}|AbstractionOdevi\\AbstractionOdevi.csproj|c:\\users\\monster\\desktop\\acunmedya\u00F6devler\\acunmedyaodevlerr\\abstractionodevi\\interface\\iyuzme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E67C61AB-D5BE-49E5-85F0-0777E9085F39}|AbstractionOdevi\\AbstractionOdevi.csproj|solutionrelative:abstractionodevi\\interface\\iyuzme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E67C61AB-D5BE-49E5-85F0-0777E9085F39}|AbstractionOdevi\\AbstractionOdevi.csproj|C:\\Users\\MONSTER\\Desktop\\AcunMedyaAkademi\\AbstractionOdevi\\abstractionodevi\\interface\\ih\u0131zl\u0131gitme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E67C61AB-D5BE-49E5-85F0-0777E9085F39}|AbstractionOdevi\\AbstractionOdevi.csproj|C:\\Users\\MONSTER\\Desktop\\AcunMedya\u00D6devler\\AcunMedyaOdevlerr\\abstractionodevi\\interface\\ih\u0131zl\u0131gitme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E67C61AB-D5BE-49E5-85F0-0777E9085F39}|AbstractionOdevi\\AbstractionOdevi.csproj|solutionrelative:abstractionodevi\\interface\\ih\u0131zl\u0131gitme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E67C61AB-D5BE-49E5-85F0-0777E9085F39}|AbstractionOdevi\\AbstractionOdevi.csproj|C:\\Users\\MONSTER\\Desktop\\AcunMedya\u00D6devler\\AcunMedyaOdevlerr\\abstractionodevi\\interface\\ihavadaucma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E67C61AB-D5BE-49E5-85F0-0777E9085F39}|AbstractionOdevi\\AbstractionOdevi.csproj|solutionrelative:abstractionodevi\\interface\\ihavadaucma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E67C61AB-D5BE-49E5-85F0-0777E9085F39}|AbstractionOdevi\\AbstractionOdevi.csproj|C:\\Users\\MONSTER\\Desktop\\AcunMedya\u00D6devler\\AcunMedyaOdevlerr\\abstractionodevi\\class\\bmw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E67C61AB-D5BE-49E5-85F0-0777E9085F39}|AbstractionOdevi\\AbstractionOdevi.csproj|solutionrelative:abstractionodevi\\class\\bmw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E67C61AB-D5BE-49E5-85F0-0777E9085F39}|AbstractionOdevi\\AbstractionOdevi.csproj|C:\\Users\\MONSTER\\Desktop\\AcunMedya\u00D6devler\\AcunMedyaOdevlerr\\abstractionodevi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E67C61AB-D5BE-49E5-85F0-0777E9085F39}|AbstractionOdevi\\AbstractionOdevi.csproj|solutionrelative:abstractionodevi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E67C61AB-D5BE-49E5-85F0-0777E9085F39}|AbstractionOdevi\\AbstractionOdevi.csproj|C:\\Users\\MONSTER\\Desktop\\AcunMedya\u00D6devler\\AcunMedyaOdevlerr\\abstractionodevi\\class\\porche.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E67C61AB-D5BE-49E5-85F0-0777E9085F39}|AbstractionOdevi\\AbstractionOdevi.csproj|solutionrelative:abstractionodevi\\class\\porche.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E67C61AB-D5BE-49E5-85F0-0777E9085F39}|AbstractionOdevi\\AbstractionOdevi.csproj|C:\\Users\\MONSTER\\Desktop\\AcunMedya\u00D6devler\\AcunMedyaOdevlerr\\abstractionodevi\\class\\mercedes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E67C61AB-D5BE-49E5-85F0-0777E9085F39}|AbstractionOdevi\\AbstractionOdevi.csproj|solutionrelative:abstractionodevi\\class\\mercedes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,11 +46,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Porche.cs",
-              "DocumentMoniker": "C:\\Users\\MONSTER\\Desktop\\AcunMedyaAkademi\\AbstractionOdevi\\AbstractionOdevi\\Class\\Porche.cs",
+              "DocumentMoniker": "C:\\Users\\MONSTER\\Desktop\\AcunMedya\u00D6devler\\AcunMedyaOdevlerr\\AbstractionOdevi\\Class\\Porche.cs",
               "RelativeDocumentMoniker": "AbstractionOdevi\\Class\\Porche.cs",
-              "ToolTip": "C:\\Users\\MONSTER\\Desktop\\AcunMedyaAkademi\\AbstractionOdevi\\AbstractionOdevi\\Class\\Porche.cs",
+              "ToolTip": "C:\\Users\\MONSTER\\Desktop\\AcunMedya\u00D6devler\\AcunMedyaOdevlerr\\AbstractionOdevi\\Class\\Porche.cs",
               "RelativeToolTip": "AbstractionOdevi\\Class\\Porche.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -58,11 +58,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Mercedes.cs",
-              "DocumentMoniker": "C:\\Users\\MONSTER\\Desktop\\AcunMedyaAkademi\\AbstractionOdevi\\AbstractionOdevi\\Class\\Mercedes.cs",
+              "DocumentMoniker": "C:\\Users\\MONSTER\\Desktop\\AcunMedya\u00D6devler\\AcunMedyaOdevlerr\\AbstractionOdevi\\Class\\Mercedes.cs",
               "RelativeDocumentMoniker": "AbstractionOdevi\\Class\\Mercedes.cs",
-              "ToolTip": "C:\\Users\\MONSTER\\Desktop\\AcunMedyaAkademi\\AbstractionOdevi\\AbstractionOdevi\\Class\\Mercedes.cs",
+              "ToolTip": "C:\\Users\\MONSTER\\Desktop\\AcunMedya\u00D6devler\\AcunMedyaOdevlerr\\AbstractionOdevi\\Class\\Mercedes.cs",
               "RelativeToolTip": "AbstractionOdevi\\Class\\Mercedes.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -70,35 +70,36 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "IHavadaUcma.cs",
-              "DocumentMoniker": "C:\\Users\\MONSTER\\Desktop\\AcunMedyaAkademi\\AbstractionOdevi\\AbstractionOdevi\\Interface\\IHavadaUcma.cs",
+              "DocumentMoniker": "C:\\Users\\MONSTER\\Desktop\\AcunMedya\u00D6devler\\AcunMedyaOdevlerr\\AbstractionOdevi\\Interface\\IHavadaUcma.cs",
               "RelativeDocumentMoniker": "AbstractionOdevi\\Interface\\IHavadaUcma.cs",
-              "ToolTip": "C:\\Users\\MONSTER\\Desktop\\AcunMedyaAkademi\\AbstractionOdevi\\AbstractionOdevi\\Interface\\IHavadaUcma.cs",
+              "ToolTip": "C:\\Users\\MONSTER\\Desktop\\AcunMedya\u00D6devler\\AcunMedyaOdevlerr\\AbstractionOdevi\\Interface\\IHavadaUcma.cs",
               "RelativeToolTip": "AbstractionOdevi\\Interface\\IHavadaUcma.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAYAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-03T17:00:19.951Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "IYuzme.cs",
-              "DocumentMoniker": "C:\\Users\\MONSTER\\Desktop\\AcunMedyaAkademi\\AbstractionOdevi\\AbstractionOdevi\\Interface\\IYuzme.cs",
+              "DocumentMoniker": "C:\\Users\\MONSTER\\Desktop\\AcunMedya\u00D6devler\\AcunMedyaOdevlerr\\AbstractionOdevi\\Interface\\IYuzme.cs",
               "RelativeDocumentMoniker": "AbstractionOdevi\\Interface\\IYuzme.cs",
-              "ToolTip": "C:\\Users\\MONSTER\\Desktop\\AcunMedyaAkademi\\AbstractionOdevi\\AbstractionOdevi\\Interface\\IYuzme.cs",
+              "ToolTip": "C:\\Users\\MONSTER\\Desktop\\AcunMedya\u00D6devler\\AcunMedyaOdevlerr\\AbstractionOdevi\\Interface\\IYuzme.cs",
               "RelativeToolTip": "AbstractionOdevi\\Interface\\IYuzme.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAVAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-03T17:00:06.182Z"
+              "WhenOpened": "2025-03-03T17:00:06.182Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "IH\u0131zl\u0131Gitme.cs",
-              "DocumentMoniker": "C:\\Users\\MONSTER\\Desktop\\AcunMedyaAkademi\\AbstractionOdevi\\AbstractionOdevi\\Interface\\IH\u0131zl\u0131Gitme.cs",
+              "DocumentMoniker": "C:\\Users\\MONSTER\\Desktop\\AcunMedya\u00D6devler\\AcunMedyaOdevlerr\\AbstractionOdevi\\Interface\\IH\u0131zl\u0131Gitme.cs",
               "RelativeDocumentMoniker": "AbstractionOdevi\\Interface\\IH\u0131zl\u0131Gitme.cs",
-              "ToolTip": "C:\\Users\\MONSTER\\Desktop\\AcunMedyaAkademi\\AbstractionOdevi\\AbstractionOdevi\\Interface\\IH\u0131zl\u0131Gitme.cs",
+              "ToolTip": "C:\\Users\\MONSTER\\Desktop\\AcunMedya\u00D6devler\\AcunMedyaOdevlerr\\AbstractionOdevi\\Interface\\IH\u0131zl\u0131Gitme.cs",
               "RelativeToolTip": "AbstractionOdevi\\Interface\\IH\u0131zl\u0131Gitme.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -108,26 +109,25 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Bmw.cs",
-              "DocumentMoniker": "C:\\Users\\MONSTER\\Desktop\\AcunMedyaAkademi\\AbstractionOdevi\\AbstractionOdevi\\Class\\Bmw.cs",
+              "DocumentMoniker": "C:\\Users\\MONSTER\\Desktop\\AcunMedya\u00D6devler\\AcunMedyaOdevlerr\\AbstractionOdevi\\Class\\Bmw.cs",
               "RelativeDocumentMoniker": "AbstractionOdevi\\Class\\Bmw.cs",
-              "ToolTip": "C:\\Users\\MONSTER\\Desktop\\AcunMedyaAkademi\\AbstractionOdevi\\AbstractionOdevi\\Class\\Bmw.cs",
+              "ToolTip": "C:\\Users\\MONSTER\\Desktop\\AcunMedya\u00D6devler\\AcunMedyaOdevlerr\\AbstractionOdevi\\Class\\Bmw.cs",
               "RelativeToolTip": "AbstractionOdevi\\Class\\Bmw.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAcAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-03T16:58:12.19Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\MONSTER\\Desktop\\AcunMedyaAkademi\\AbstractionOdevi\\AbstractionOdevi\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\MONSTER\\Desktop\\AcunMedya\u00D6devler\\AcunMedyaOdevlerr\\AbstractionOdevi\\Program.cs",
               "RelativeDocumentMoniker": "AbstractionOdevi\\Program.cs",
-              "ToolTip": "C:\\Users\\MONSTER\\Desktop\\AcunMedyaAkademi\\AbstractionOdevi\\AbstractionOdevi\\Program.cs",
+              "ToolTip": "C:\\Users\\MONSTER\\Desktop\\AcunMedya\u00D6devler\\AcunMedyaOdevlerr\\AbstractionOdevi\\Program.cs",
               "RelativeToolTip": "AbstractionOdevi\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-03T16:56:59.335Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-03T16:56:59.335Z"
             }
           ]
         }

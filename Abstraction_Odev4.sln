@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Abstraction_Odev4", "Abstraction_Odev4\Abstraction_Odev4.csproj", "{28E08A1F-481E-45BF-BBDA-487D5F103A52}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayList", "ArrayList\ArrayList.csproj", "{672D226F-D9E8-445A-B7BB-A01BC4307601}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{28E08A1F-481E-45BF-BBDA-487D5F103A52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28E08A1F-481E-45BF-BBDA-487D5F103A52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28E08A1F-481E-45BF-BBDA-487D5F103A52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28E08A1F-481E-45BF-BBDA-487D5F103A52}.Release|Any CPU.Build.0 = Release|Any CPU
+		{672D226F-D9E8-445A-B7BB-A01BC4307601}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{672D226F-D9E8-445A-B7BB-A01BC4307601}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{672D226F-D9E8-445A-B7BB-A01BC4307601}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{672D226F-D9E8-445A-B7BB-A01BC4307601}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {05E2FC1E-C142-43A8-8590-81139AF94303}
+	EndGlobalSection
+EndGlobal
