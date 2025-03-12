@@ -1,0 +1,14 @@
+C:\Users\MONSTER\Desktop\AcunMedyaAkademi\DizilerVeDonguler\DizilerVeDonguler\bin\Debug\net8.0\DizilerVeDonguler.exe
+C:\Users\MONSTER\Desktop\AcunMedyaAkademi\DizilerVeDonguler\DizilerVeDonguler\bin\Debug\net8.0\DizilerVeDonguler.deps.json
+C:\Users\MONSTER\Desktop\AcunMedyaAkademi\DizilerVeDonguler\DizilerVeDonguler\bin\Debug\net8.0\DizilerVeDonguler.runtimeconfig.json
+C:\Users\MONSTER\Desktop\AcunMedyaAkademi\DizilerVeDonguler\DizilerVeDonguler\bin\Debug\net8.0\DizilerVeDonguler.dll
+C:\Users\MONSTER\Desktop\AcunMedyaAkademi\DizilerVeDonguler\DizilerVeDonguler\bin\Debug\net8.0\DizilerVeDonguler.pdb
+C:\Users\MONSTER\Desktop\AcunMedyaAkademi\DizilerVeDonguler\DizilerVeDonguler\obj\Debug\net8.0\DizilerVeDonguler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MONSTER\Desktop\AcunMedyaAkademi\DizilerVeDonguler\DizilerVeDonguler\obj\Debug\net8.0\DizilerVeDonguler.AssemblyInfoInputs.cache
+C:\Users\MONSTER\Desktop\AcunMedyaAkademi\DizilerVeDonguler\DizilerVeDonguler\obj\Debug\net8.0\DizilerVeDonguler.AssemblyInfo.cs
+C:\Users\MONSTER\Desktop\AcunMedyaAkademi\DizilerVeDonguler\DizilerVeDonguler\obj\Debug\net8.0\DizilerVeDonguler.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\Desktop\AcunMedyaAkademi\DizilerVeDonguler\DizilerVeDonguler\obj\Debug\net8.0\DizilerVeDonguler.dll
+C:\Users\MONSTER\Desktop\AcunMedyaAkademi\DizilerVeDonguler\DizilerVeDonguler\obj\Debug\net8.0\refint\DizilerVeDonguler.dll
+C:\Users\MONSTER\Desktop\AcunMedyaAkademi\DizilerVeDonguler\DizilerVeDonguler\obj\Debug\net8.0\DizilerVeDonguler.pdb
+C:\Users\MONSTER\Desktop\AcunMedyaAkademi\DizilerVeDonguler\DizilerVeDonguler\obj\Debug\net8.0\DizilerVeDonguler.genruntimeconfig.cache
+C:\Users\MONSTER\Desktop\AcunMedyaAkademi\DizilerVeDonguler\DizilerVeDonguler\obj\Debug\net8.0\ref\DizilerVeDonguler.dll
