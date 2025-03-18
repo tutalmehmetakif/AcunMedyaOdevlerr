@@ -1,0 +1,14 @@
+C:\Users\MONSTER\Desktop\AcunMedyaAkademi\MerhabaDunya\MerhabaDunya\bin\Debug\net8.0\MerhabaDunya.exe
+C:\Users\MONSTER\Desktop\AcunMedyaAkademi\MerhabaDunya\MerhabaDunya\bin\Debug\net8.0\MerhabaDunya.deps.json
+C:\Users\MONSTER\Desktop\AcunMedyaAkademi\MerhabaDunya\MerhabaDunya\bin\Debug\net8.0\MerhabaDunya.runtimeconfig.json
+C:\Users\MONSTER\Desktop\AcunMedyaAkademi\MerhabaDunya\MerhabaDunya\bin\Debug\net8.0\MerhabaDunya.dll
+C:\Users\MONSTER\Desktop\AcunMedyaAkademi\MerhabaDunya\MerhabaDunya\bin\Debug\net8.0\MerhabaDunya.pdb
+C:\Users\MONSTER\Desktop\AcunMedyaAkademi\MerhabaDunya\MerhabaDunya\obj\Debug\net8.0\MerhabaDunya.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MONSTER\Desktop\AcunMedyaAkademi\MerhabaDunya\MerhabaDunya\obj\Debug\net8.0\MerhabaDunya.AssemblyInfoInputs.cache
+C:\Users\MONSTER\Desktop\AcunMedyaAkademi\MerhabaDunya\MerhabaDunya\obj\Debug\net8.0\MerhabaDunya.AssemblyInfo.cs
+C:\Users\MONSTER\Desktop\AcunMedyaAkademi\MerhabaDunya\MerhabaDunya\obj\Debug\net8.0\MerhabaDunya.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\Desktop\AcunMedyaAkademi\MerhabaDunya\MerhabaDunya\obj\Debug\net8.0\MerhabaDunya.dll
+C:\Users\MONSTER\Desktop\AcunMedyaAkademi\MerhabaDunya\MerhabaDunya\obj\Debug\net8.0\refint\MerhabaDunya.dll
+C:\Users\MONSTER\Desktop\AcunMedyaAkademi\MerhabaDunya\MerhabaDunya\obj\Debug\net8.0\MerhabaDunya.pdb
+C:\Users\MONSTER\Desktop\AcunMedyaAkademi\MerhabaDunya\MerhabaDunya\obj\Debug\net8.0\MerhabaDunya.genruntimeconfig.cache
+C:\Users\MONSTER\Desktop\AcunMedyaAkademi\MerhabaDunya\MerhabaDunya\obj\Debug\net8.0\ref\MerhabaDunya.dll
