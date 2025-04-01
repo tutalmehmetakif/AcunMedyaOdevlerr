@@ -1,0 +1,16 @@
+C:\Users\MONSTER\Desktop\AcunMedyaAkademi\windowsFormArabaBilgiFormu\windowsFormArabaBilgiFormu\bin\Debug\net8.0-windows\windowsFormArabaBilgiFormu.exe
+C:\Users\MONSTER\Desktop\AcunMedyaAkademi\windowsFormArabaBilgiFormu\windowsFormArabaBilgiFormu\bin\Debug\net8.0-windows\windowsFormArabaBilgiFormu.deps.json
+C:\Users\MONSTER\Desktop\AcunMedyaAkademi\windowsFormArabaBilgiFormu\windowsFormArabaBilgiFormu\bin\Debug\net8.0-windows\windowsFormArabaBilgiFormu.runtimeconfig.json
+C:\Users\MONSTER\Desktop\AcunMedyaAkademi\windowsFormArabaBilgiFormu\windowsFormArabaBilgiFormu\bin\Debug\net8.0-windows\windowsFormArabaBilgiFormu.dll
+C:\Users\MONSTER\Desktop\AcunMedyaAkademi\windowsFormArabaBilgiFormu\windowsFormArabaBilgiFormu\bin\Debug\net8.0-windows\windowsFormArabaBilgiFormu.pdb
+C:\Users\MONSTER\Desktop\AcunMedyaAkademi\windowsFormArabaBilgiFormu\windowsFormArabaBilgiFormu\obj\Debug\net8.0-windows\windowsFormArabaBilgiFormu.Form1.resources
+C:\Users\MONSTER\Desktop\AcunMedyaAkademi\windowsFormArabaBilgiFormu\windowsFormArabaBilgiFormu\obj\Debug\net8.0-windows\windowsFormArabaBilgiFormu.csproj.GenerateResource.cache
+C:\Users\MONSTER\Desktop\AcunMedyaAkademi\windowsFormArabaBilgiFormu\windowsFormArabaBilgiFormu\obj\Debug\net8.0-windows\windowsFormArabaBilgiFormu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MONSTER\Desktop\AcunMedyaAkademi\windowsFormArabaBilgiFormu\windowsFormArabaBilgiFormu\obj\Debug\net8.0-windows\windowsFormArabaBilgiFormu.AssemblyInfoInputs.cache
+C:\Users\MONSTER\Desktop\AcunMedyaAkademi\windowsFormArabaBilgiFormu\windowsFormArabaBilgiFormu\obj\Debug\net8.0-windows\windowsFormArabaBilgiFormu.AssemblyInfo.cs
+C:\Users\MONSTER\Desktop\AcunMedyaAkademi\windowsFormArabaBilgiFormu\windowsFormArabaBilgiFormu\obj\Debug\net8.0-windows\windowsFormArabaBilgiFormu.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\Desktop\AcunMedyaAkademi\windowsFormArabaBilgiFormu\windowsFormArabaBilgiFormu\obj\Debug\net8.0-windows\windowsFormArabaBilgiFormu.dll
+C:\Users\MONSTER\Desktop\AcunMedyaAkademi\windowsFormArabaBilgiFormu\windowsFormArabaBilgiFormu\obj\Debug\net8.0-windows\refint\windowsFormArabaBilgiFormu.dll
+C:\Users\MONSTER\Desktop\AcunMedyaAkademi\windowsFormArabaBilgiFormu\windowsFormArabaBilgiFormu\obj\Debug\net8.0-windows\windowsFormArabaBilgiFormu.pdb
+C:\Users\MONSTER\Desktop\AcunMedyaAkademi\windowsFormArabaBilgiFormu\windowsFormArabaBilgiFormu\obj\Debug\net8.0-windows\windowsFormArabaBilgiFormu.genruntimeconfig.cache
+C:\Users\MONSTER\Desktop\AcunMedyaAkademi\windowsFormArabaBilgiFormu\windowsFormArabaBilgiFormu\obj\Debug\net8.0-windows\ref\windowsFormArabaBilgiFormu.dll
