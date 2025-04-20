@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MONSTER\\Desktop\\AcunMedyaAkademi\\ReflectionOdevi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C03727A7-0D31-4E79-AD0D-1588B8761C5E}|ReflectionOdevi\\ReflectionOdevi.csproj|c:\\users\\monster\\desktop\\acunmedyaakademi\\reflectionodevi\\reflectionodevi\\classes\\ogrenci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C03727A7-0D31-4E79-AD0D-1588B8761C5E}|ReflectionOdevi\\ReflectionOdevi.csproj|solutionrelative:reflectionodevi\\classes\\ogrenci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C03727A7-0D31-4E79-AD0D-1588B8761C5E}|ReflectionOdevi\\ReflectionOdevi.csproj|c:\\users\\monster\\desktop\\acunmedyaakademi\\reflectionodevi\\reflectionodevi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C03727A7-0D31-4E79-AD0D-1588B8761C5E}|ReflectionOdevi\\ReflectionOdevi.csproj|solutionrelative:reflectionodevi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Ogrenci.cs",
+              "DocumentMoniker": "C:\\Users\\MONSTER\\Desktop\\AcunMedyaAkademi\\ReflectionOdevi\\ReflectionOdevi\\Classes\\Ogrenci.cs",
+              "RelativeDocumentMoniker": "ReflectionOdevi\\Classes\\Ogrenci.cs",
+              "ToolTip": "C:\\Users\\MONSTER\\Desktop\\AcunMedyaAkademi\\ReflectionOdevi\\ReflectionOdevi\\Classes\\Ogrenci.cs",
+              "RelativeToolTip": "ReflectionOdevi\\Classes\\Ogrenci.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T11:03:21.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MONSTER\\Desktop\\AcunMedyaAkademi\\ReflectionOdevi\\ReflectionOdevi\\Program.cs",
+              "RelativeDocumentMoniker": "ReflectionOdevi\\Program.cs",
+              "ToolTip": "C:\\Users\\MONSTER\\Desktop\\AcunMedyaAkademi\\ReflectionOdevi\\ReflectionOdevi\\Program.cs",
+              "RelativeToolTip": "ReflectionOdevi\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T11:02:59.874Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

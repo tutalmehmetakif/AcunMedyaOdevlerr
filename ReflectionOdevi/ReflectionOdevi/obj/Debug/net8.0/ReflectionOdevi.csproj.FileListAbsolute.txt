@@ -1,0 +1,14 @@
+C:\Users\MONSTER\Desktop\AcunMedyaAkademi\ReflectionOdevi\ReflectionOdevi\bin\Debug\net8.0\ReflectionOdevi.exe
+C:\Users\MONSTER\Desktop\AcunMedyaAkademi\ReflectionOdevi\ReflectionOdevi\bin\Debug\net8.0\ReflectionOdevi.deps.json
+C:\Users\MONSTER\Desktop\AcunMedyaAkademi\ReflectionOdevi\ReflectionOdevi\bin\Debug\net8.0\ReflectionOdevi.runtimeconfig.json
+C:\Users\MONSTER\Desktop\AcunMedyaAkademi\ReflectionOdevi\ReflectionOdevi\bin\Debug\net8.0\ReflectionOdevi.dll
+C:\Users\MONSTER\Desktop\AcunMedyaAkademi\ReflectionOdevi\ReflectionOdevi\bin\Debug\net8.0\ReflectionOdevi.pdb
+C:\Users\MONSTER\Desktop\AcunMedyaAkademi\ReflectionOdevi\ReflectionOdevi\obj\Debug\net8.0\ReflectionOdevi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MONSTER\Desktop\AcunMedyaAkademi\ReflectionOdevi\ReflectionOdevi\obj\Debug\net8.0\ReflectionOdevi.AssemblyInfoInputs.cache
+C:\Users\MONSTER\Desktop\AcunMedyaAkademi\ReflectionOdevi\ReflectionOdevi\obj\Debug\net8.0\ReflectionOdevi.AssemblyInfo.cs
+C:\Users\MONSTER\Desktop\AcunMedyaAkademi\ReflectionOdevi\ReflectionOdevi\obj\Debug\net8.0\ReflectionOdevi.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\Desktop\AcunMedyaAkademi\ReflectionOdevi\ReflectionOdevi\obj\Debug\net8.0\ReflectionOdevi.dll
+C:\Users\MONSTER\Desktop\AcunMedyaAkademi\ReflectionOdevi\ReflectionOdevi\obj\Debug\net8.0\refint\ReflectionOdevi.dll
+C:\Users\MONSTER\Desktop\AcunMedyaAkademi\ReflectionOdevi\ReflectionOdevi\obj\Debug\net8.0\ReflectionOdevi.pdb
+C:\Users\MONSTER\Desktop\AcunMedyaAkademi\ReflectionOdevi\ReflectionOdevi\obj\Debug\net8.0\ReflectionOdevi.genruntimeconfig.cache
+C:\Users\MONSTER\Desktop\AcunMedyaAkademi\ReflectionOdevi\ReflectionOdevi\obj\Debug\net8.0\ref\ReflectionOdevi.dll
