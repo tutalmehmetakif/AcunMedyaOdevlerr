@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ReflectionIleOdemeSıstemiOdev3/1.0.0": {
+        "runtime": {
+          "ReflectionIleOdemeSıstemiOdev3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ReflectionIleOdemeSıstemiOdev3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

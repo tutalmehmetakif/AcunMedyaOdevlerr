@@ -1,0 +1,16 @@
+C:\Users\MONSTER\Desktop\AcunMedyaAkademi\ReflectionIleOdemeSistemiOdev\ReflectionIleOdemeSistemiOdev\bin\Debug\net8.0-windows\ReflectionIleOdemeSistemiOdev.exe
+C:\Users\MONSTER\Desktop\AcunMedyaAkademi\ReflectionIleOdemeSistemiOdev\ReflectionIleOdemeSistemiOdev\bin\Debug\net8.0-windows\ReflectionIleOdemeSistemiOdev.deps.json
+C:\Users\MONSTER\Desktop\AcunMedyaAkademi\ReflectionIleOdemeSistemiOdev\ReflectionIleOdemeSistemiOdev\bin\Debug\net8.0-windows\ReflectionIleOdemeSistemiOdev.runtimeconfig.json
+C:\Users\MONSTER\Desktop\AcunMedyaAkademi\ReflectionIleOdemeSistemiOdev\ReflectionIleOdemeSistemiOdev\bin\Debug\net8.0-windows\ReflectionIleOdemeSistemiOdev.dll
+C:\Users\MONSTER\Desktop\AcunMedyaAkademi\ReflectionIleOdemeSistemiOdev\ReflectionIleOdemeSistemiOdev\bin\Debug\net8.0-windows\ReflectionIleOdemeSistemiOdev.pdb
+C:\Users\MONSTER\Desktop\AcunMedyaAkademi\ReflectionIleOdemeSistemiOdev\ReflectionIleOdemeSistemiOdev\obj\Debug\net8.0-windows\ReflectionIleOdemeSistemiOdev.Form1.resources
+C:\Users\MONSTER\Desktop\AcunMedyaAkademi\ReflectionIleOdemeSistemiOdev\ReflectionIleOdemeSistemiOdev\obj\Debug\net8.0-windows\ReflectionIleOdemeSistemiOdev.csproj.GenerateResource.cache
+C:\Users\MONSTER\Desktop\AcunMedyaAkademi\ReflectionIleOdemeSistemiOdev\ReflectionIleOdemeSistemiOdev\obj\Debug\net8.0-windows\ReflectionIleOdemeSistemiOdev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MONSTER\Desktop\AcunMedyaAkademi\ReflectionIleOdemeSistemiOdev\ReflectionIleOdemeSistemiOdev\obj\Debug\net8.0-windows\ReflectionIleOdemeSistemiOdev.AssemblyInfoInputs.cache
+C:\Users\MONSTER\Desktop\AcunMedyaAkademi\ReflectionIleOdemeSistemiOdev\ReflectionIleOdemeSistemiOdev\obj\Debug\net8.0-windows\ReflectionIleOdemeSistemiOdev.AssemblyInfo.cs
+C:\Users\MONSTER\Desktop\AcunMedyaAkademi\ReflectionIleOdemeSistemiOdev\ReflectionIleOdemeSistemiOdev\obj\Debug\net8.0-windows\ReflectionIleOdemeSistemiOdev.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\Desktop\AcunMedyaAkademi\ReflectionIleOdemeSistemiOdev\ReflectionIleOdemeSistemiOdev\obj\Debug\net8.0-windows\ReflectionIleOdemeSistemiOdev.dll
+C:\Users\MONSTER\Desktop\AcunMedyaAkademi\ReflectionIleOdemeSistemiOdev\ReflectionIleOdemeSistemiOdev\obj\Debug\net8.0-windows\refint\ReflectionIleOdemeSistemiOdev.dll
+C:\Users\MONSTER\Desktop\AcunMedyaAkademi\ReflectionIleOdemeSistemiOdev\ReflectionIleOdemeSistemiOdev\obj\Debug\net8.0-windows\ReflectionIleOdemeSistemiOdev.pdb
+C:\Users\MONSTER\Desktop\AcunMedyaAkademi\ReflectionIleOdemeSistemiOdev\ReflectionIleOdemeSistemiOdev\obj\Debug\net8.0-windows\ReflectionIleOdemeSistemiOdev.genruntimeconfig.cache
+C:\Users\MONSTER\Desktop\AcunMedyaAkademi\ReflectionIleOdemeSistemiOdev\ReflectionIleOdemeSistemiOdev\obj\Debug\net8.0-windows\ref\ReflectionIleOdemeSistemiOdev.dll

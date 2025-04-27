@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReflectionIleOdemeSıstemiOdev3", "ReflectionIleOdemeSıstemiOdev3\ReflectionIleOdemeSıstemiOdev3.csproj", "{5CECA2CF-40C6-4822-A56C-D787F48FA47A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5CECA2CF-40C6-4822-A56C-D787F48FA47A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CECA2CF-40C6-4822-A56C-D787F48FA47A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CECA2CF-40C6-4822-A56C-D787F48FA47A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CECA2CF-40C6-4822-A56C-D787F48FA47A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {83A25333-BDEE-4FAF-9DCE-2E004B621A04}
+	EndGlobalSection
+EndGlobal
