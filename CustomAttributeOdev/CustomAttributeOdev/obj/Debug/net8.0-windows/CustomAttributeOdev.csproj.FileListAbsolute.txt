@@ -1,0 +1,16 @@
+C:\Users\MONSTER\Desktop\AcunMedyaAkademi\CustomAttributeOdev\CustomAttributeOdev\bin\Debug\net8.0-windows\CustomAttributeOdev.exe
+C:\Users\MONSTER\Desktop\AcunMedyaAkademi\CustomAttributeOdev\CustomAttributeOdev\bin\Debug\net8.0-windows\CustomAttributeOdev.deps.json
+C:\Users\MONSTER\Desktop\AcunMedyaAkademi\CustomAttributeOdev\CustomAttributeOdev\bin\Debug\net8.0-windows\CustomAttributeOdev.runtimeconfig.json
+C:\Users\MONSTER\Desktop\AcunMedyaAkademi\CustomAttributeOdev\CustomAttributeOdev\bin\Debug\net8.0-windows\CustomAttributeOdev.dll
+C:\Users\MONSTER\Desktop\AcunMedyaAkademi\CustomAttributeOdev\CustomAttributeOdev\bin\Debug\net8.0-windows\CustomAttributeOdev.pdb
+C:\Users\MONSTER\Desktop\AcunMedyaAkademi\CustomAttributeOdev\CustomAttributeOdev\obj\Debug\net8.0-windows\CustomAttributeOdev.Form1.resources
+C:\Users\MONSTER\Desktop\AcunMedyaAkademi\CustomAttributeOdev\CustomAttributeOdev\obj\Debug\net8.0-windows\CustomAttributeOdev.csproj.GenerateResource.cache
+C:\Users\MONSTER\Desktop\AcunMedyaAkademi\CustomAttributeOdev\CustomAttributeOdev\obj\Debug\net8.0-windows\CustomAttributeOdev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MONSTER\Desktop\AcunMedyaAkademi\CustomAttributeOdev\CustomAttributeOdev\obj\Debug\net8.0-windows\CustomAttributeOdev.AssemblyInfoInputs.cache
+C:\Users\MONSTER\Desktop\AcunMedyaAkademi\CustomAttributeOdev\CustomAttributeOdev\obj\Debug\net8.0-windows\CustomAttributeOdev.AssemblyInfo.cs
+C:\Users\MONSTER\Desktop\AcunMedyaAkademi\CustomAttributeOdev\CustomAttributeOdev\obj\Debug\net8.0-windows\CustomAttributeOdev.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\Desktop\AcunMedyaAkademi\CustomAttributeOdev\CustomAttributeOdev\obj\Debug\net8.0-windows\CustomAttributeOdev.dll
+C:\Users\MONSTER\Desktop\AcunMedyaAkademi\CustomAttributeOdev\CustomAttributeOdev\obj\Debug\net8.0-windows\refint\CustomAttributeOdev.dll
+C:\Users\MONSTER\Desktop\AcunMedyaAkademi\CustomAttributeOdev\CustomAttributeOdev\obj\Debug\net8.0-windows\CustomAttributeOdev.pdb
+C:\Users\MONSTER\Desktop\AcunMedyaAkademi\CustomAttributeOdev\CustomAttributeOdev\obj\Debug\net8.0-windows\CustomAttributeOdev.genruntimeconfig.cache
+C:\Users\MONSTER\Desktop\AcunMedyaAkademi\CustomAttributeOdev\CustomAttributeOdev\obj\Debug\net8.0-windows\ref\CustomAttributeOdev.dll
